@@ -1,3 +1,3 @@
-def (string, key)
-    
+def caesar_cipher(string, key)
+
 end
